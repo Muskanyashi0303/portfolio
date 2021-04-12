@@ -35,6 +35,7 @@ header nav .left a{
 }
 header nav .right a{
     text-decoration: none;
+    color: var(--dark);
 }
 header nav .left a:hover{
     color:var(--primary);
