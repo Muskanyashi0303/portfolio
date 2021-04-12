@@ -33,6 +33,9 @@ header nav .left a{
     text-transform:uppercase;
     transition:all .3s ease ;
 }
+header nav .right a{
+    text-decoration: none;
+}
 header nav .left a:hover{
     color:var(--primary);
 
