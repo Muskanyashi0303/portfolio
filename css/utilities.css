@@ -23,7 +23,7 @@
     text-decoration: none;
 }
 .btn-primary:hover{
-    background: transparent;
+    background: whitesmoke;
     border-color: var(--primary);
     color:var(--primary);
 }
