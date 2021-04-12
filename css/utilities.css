@@ -23,7 +23,7 @@
     text-decoration: none;
 }
 .btn-primary:hover{
-    background: rgb(245, 245, 245);
+    background: var(--pure);
     border-color: var(--primary);
     color:var(--primary);
 }
